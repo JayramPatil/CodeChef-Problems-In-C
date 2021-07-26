@@ -3,7 +3,7 @@
 		The first line of the input contains a single integer T denoting the number of test cases. The description of T test cases follows.
 		The first and only line of each test case contains two space-separated integers A and B.
 	Output
-		For each test case, print a single line containing one integer — the number of matches needed to write the result (A+B).
+		For each test case, print a single line containing one integer â€” the number of matches needed to write the result (A+B).
 */
 
 #include <stdio.h>
@@ -11,7 +11,6 @@
 
 int main(void)
 {
-	// your code goes here
 
 	int t = 0;
 	scanf("%d",&t);
